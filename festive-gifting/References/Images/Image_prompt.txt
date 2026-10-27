@@ -1,0 +1,95 @@
+Prompt-1:
+
+Using the uploaded reference image, create a NEW photograph of the exact same festive gift hamper.
+
+SHOT TYPE: Wide environmental establishing shot.
+
+CAMERA POSITION: Place the camera approximately 2.5 to 3 metres away from the hamper, at a slightly elevated eye-level angle. Use a wide 24mm lens aesthetic.
+
+COMPOSITION: Show the entire hamper and its surrounding environment. The gift box should occupy approximately 45% of the image width, with generous space around it. Include the flowers, brass diya, ivory pouch, and surrounding decorative elements.
+
+The scene should feel spacious, elegant, and editorial.
+
+Use a slightly wider perspective than the reference image, revealing more of the luxurious ivory environment.
+
+LIGHTING: Soft natural golden sunlight entering from the upper left, creating long gentle shadows.
+
+The result must be a visibly different wide photograph, NOT a recreation of the original framing.
+
+Landscape 16:9. Photorealistic premium commercial photography.
+
+Preserve the exact hamper design and products. Do not add, remove, or redesign products.
+
+Prompt-2:
+
+Using the uploaded reference image, create a NEW photograph of the exact same festive gift hamper.
+
+SHOT TYPE: Dramatic three-quarter perspective product shot.
+
+CAMERA POSITION: Move the camera to the front-right side of the hamper, approximately 35 to 45 degrees from the original front-facing viewpoint. Use a 35mm lens aesthetic.
+
+COMPOSITION: The hamper should appear in a strong diagonal perspective, showing the front edge, right side, depth of the box, open lid, and contents.
+
+The camera should be considerably closer than the wide establishing shot.
+
+Make the rose-gold Gulab Jamun box and the arrangement of sweets prominent in the composition.
+
+Allow the ivory pouch and diya to appear towards the edges of the frame as supporting decorative elements.
+
+LIGHTING: Warm directional sunlight, elegant gold reflections, realistic shadows, and premium editorial depth.
+
+The viewing angle MUST be noticeably different from the original reference photograph.
+
+Do not reproduce the original front-facing composition.
+
+Landscape 16:9. Ultra-realistic luxury product advertising photography.
+
+Maintain the exact product packaging, colours, and identity.
+
+Prompt-3:
+
+Using the uploaded reference image, create a NEW extreme close-up luxury product photograph.
+
+SHOT TYPE: Macro food and packaging detail photography.
+
+CAMERA POSITION: Place the camera very close to the contents of the open hamper. Use an 85mm macro lens aesthetic.
+
+COMPOSITION: Do NOT show the entire hamper.
+
+Focus tightly on three or four beautifully arranged gulab jamun sweets inside their original rose-gold gift box.
+
+Capture the realistic syrup sheen, fine pistachio garnish, delicate food textures, rose-gold packaging details, and premium paper material.
+
+The sweets should occupy most of the frame. Let the background softly blur into warm champagne and ivory tones.
+
+Create beautiful shallow depth of field with exceptionally sharp focus on the foreground sweet.
+
+LIGHTING: Soft warm side lighting, delicate highlights, natural shadows, premium food-commercial photography.
+
+This must be a genuine macro composition, not another full hamper photograph.
+
+Landscape 16:9. Photorealistic. No artificial food textures, no distorted sweets, no redesigned packaging.
+
+Prompt-4:
+
+Using the uploaded reference image, create a NEW photograph of the exact same festive gift hamper.
+
+SHOT TYPE: Elevated overhead editorial product composition.
+
+CAMERA POSITION: Position the camera above the hamper at approximately 65 to 75 degrees from horizontal, looking down diagonally. Use a 50mm lens aesthetic.
+
+COMPOSITION: Show the gift box from above, clearly revealing its rectangular geometry and the arrangement of its contents.
+
+Arrange the composition so the hamper is seen from a new elevated perspective. Include the ivory embroidered pouch, brass diya, and decorative accessories around the hamper.
+
+Create a balanced luxury flat-lay composition with intentional spacing and refined visual symmetry.
+
+The photograph should look like a professionally art-directed luxury gifting catalogue cover.
+
+LIGHTING: Soft golden sunlight from one side, gentle shadows, warm ivory background, champagne-gold highlights.
+
+This must be an unmistakably overhead composition. Do not recreate the original front-facing camera angle.
+
+Landscape 16:9. Photorealistic premium editorial product photography.
+
+Preserve the exact product identity, packaging, colours, and contents.
